@@ -4,3 +4,7 @@ A simple team-based calculator project demonstrating Git branching, collaboratio
 Basic arithmetic operations (add, subtract, multiply, divide)
 Advanced operations (sqrt, power, percentage)
 Simple command-line interface (CLI)
+
+----------------------------------------------------
+# Contributors
+ -Prerna Patil
