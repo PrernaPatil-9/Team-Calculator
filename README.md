@@ -10,4 +10,4 @@ Simple command-line interface (CLI)
  - Prerna Patil
  - Radhika Dorkhande
 ----------------------------------------------------
-** Version: **
+**Version:**
