@@ -7,5 +7,5 @@ Simple command-line interface (CLI)
 
 ----------------------------------------------------
 # Contributors
- -Prerna Patil
- -Radhika Dorkhande
+ - Prerna Patil
+ - Radhika Dorkhande
